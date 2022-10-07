@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in programmin
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Html & CSS
 <!---
 Ahmed12410/Ahmed12410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
